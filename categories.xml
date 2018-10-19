@@ -4,9 +4,9 @@
 	  <!-- banner_ad: optional element which displays an at the top level category screen -->
 	  <banner_ad sd_img="https://devtools.web.roku.com/videoplayer/images/missing.png" hd_img="https://devtools.web.roku.com/videoplayer/images/missing.png"/>
 	  
-	<category title="Technology1234" description="TED Talks on Technology" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png">
+	<category title="Hockey" description="TED Talks on Technology" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png">
 		<categoryLeaf title="The Mind" description="" feed="https://devtools.web.roku.com/videoplayer/xml/themind.xml"/>
-		<categoryLeaf title="Global Issues" description="" feed="https://devtools.web.roku.com/videoplayer/xml/globalissues.xml" />
+		<categoryLeaf title="Global Issues" description="" feed="https://raw.githubusercontent.com/Freakgod24/RokuTest/master/globalissues.xml" />
 	</category>
 
 	<category title="Entertainment" description="TED Talks on Entertainment" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Entertainment.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Entertainment.png">
